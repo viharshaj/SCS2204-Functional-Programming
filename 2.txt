@@ -1,0 +1,18 @@
+Java
+
+Write code once and run it on almost any computer platform
+It is designed for building object-oriented applications.
+Very Robust and Highly Secure
+It is a multithreaded language with automatic memory management
+Facilitates distributed computing as its network centric
+
+Scala
+
+Object-oriented but Scala is also a functional language.
+It is concise, powerful language and can quickly grow according to the demand of its users.
+Allows you to execute Java code
+Scala is statically typed
+
+
+
+
